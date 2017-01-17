@@ -352,3 +352,8 @@ function Exercice6(){
   // DEBUG & CHECK UPDATES
   //console.log(actors)
 }
+
+
+
+
+// Author: ANTHONY CLARK - IF 2
